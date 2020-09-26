@@ -1,16 +1,13 @@
-### Hi there 👋
+# Zaky Ahmad Hanif Raksakusumah - @raksakusumah
 
-<!--
-**raksakusumah/raksakusumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+- 🔭 I’m currently studying at Bina Nusantara University in Computer Science department as undergraduate student
+- 🌱 I’m currently learning about System Intelligence in Computer Science department
+- 👯 I’m looking to collaborate with everyone
+- 📫 How to reach me: 
+    - LinkedIn  : https://www.linkedin.com/in/zaky-ahmad-hanif-raksakusumah-ab7475121
+    - Instagram : @raksa.kusumah
+    - Line      : @raksa.kusumah
+- 😄 Pronouns: Indonesia and English
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
